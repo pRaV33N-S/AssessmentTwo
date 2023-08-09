@@ -1,0 +1,12 @@
+101, Aravindan, 10A
+102, Kavitha, 9B
+103, Rajeshwari, 8C
+104, Manikandan, 7D
+105, Minakshi, 12C
+106, Suresh, 8H
+107, Karthik, 12G
+108, Sandhya, 10H
+109, Pavithra, 9I
+110, Anitha, 8J
+120, Gowtham, 10A2
+130, Jayanthi, 8B

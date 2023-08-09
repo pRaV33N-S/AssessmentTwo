@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\AssessmentTwo\bin\Debug\AssessmentTwo.exe.config
+D:\Raven\Practice Exercise\C#\AssessmentTwo\bin\Debug\AssessmentTwo.exe
+D:\Raven\Practice Exercise\C#\AssessmentTwo\bin\Debug\AssessmentTwo.pdb
+D:\Raven\Practice Exercise\C#\AssessmentTwo\obj\Debug\AssessmentTwo.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\AssessmentTwo\obj\Debug\AssessmentTwo.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\AssessmentTwo\obj\Debug\AssessmentTwo.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\AssessmentTwo\obj\Debug\AssessmentTwo.exe
+D:\Raven\Practice Exercise\C#\AssessmentTwo\obj\Debug\AssessmentTwo.pdb
